@@ -1,5 +1,5 @@
 # 💫  Hola!! Soy Sofia:
-👩‍🎓 Bachiller en Administración y Negocios Internacionales de la UPC.<br/><br>🎯 Estoy estudiando una especialización en Data Science for Business.<br/><br>📊 Estoy reforzando mis habilidades con herramientas analíticas como **Python, SQL, Power BI**.<br/><br>🚀 Me apasiona transformar datos en decisiones y mejorar procesos con soluciones basadas en datos.<br/> <br>😺 Cat Lover 🐈<br/>
+👩‍🎓 Bachiller en Administración y Negocios Internacionales de la UPC.<br/><br>🎯 Especialización en Data Science for Business.<br/><br>📊 Refuerzo mis habilidades con herramientas analíticas como **Python, SQL, Power BI**.<br/><br>🚀 Me apasiona transformar datos en decisiones y mejorar procesos con soluciones basadas en datos.<br/> <br>😺 Cat Lover 🐈<br/>
 
 
 # 💻 Tech Stack:
